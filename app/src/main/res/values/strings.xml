@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unity3D Sample DFM</string>
+    <string name="game_view_content_description">Game view</string>
+    <string name="title_dynamicfeature">Dynamic Features</string>
+</resources>
